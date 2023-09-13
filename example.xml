@@ -1,0 +1,14 @@
+<class>
+  <professor>"Murphy"</professor>
+  <classnumber>"COM541"</classnumber>
+  <students>
+    <name>"Tim"</name>
+    <grade>"F"</grade>
+
+    <name>"Joe"</name>
+    <grade>"C"</grade>
+
+    <name>"Sarah"</name>
+    <grade>"A-"</grade>
+  </students>
+</class>
